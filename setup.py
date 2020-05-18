@@ -15,11 +15,8 @@ setuptools.setup(
     packages=['nadar'],
     install_requires=[
         'datetime',
-        're',
-        'functools',
-        'typing',
         'dateparser'
-    ]
+    ],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
