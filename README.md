@@ -4,4 +4,4 @@ The purposed of this package is to translate natural language phrases describing
 
 # Acknowledgment
 
-The main author of the code for this package is **Benjamin Wolter, PhD**.
+The main author of the code for this package is [**Benjamin Wolter, PhD**](https://www.linkedin.com/in/benjamin-wolter/).
