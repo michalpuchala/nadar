@@ -12,7 +12,14 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/michalpuchala/nadar",
-    packages=setuptools.find_packages(),
+    packages=['nadar'],
+    install_requires=[
+        'datetime',
+        're',
+        'functools',
+        'typing',
+        'dateparser'
+    ]
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
