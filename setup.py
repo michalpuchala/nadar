@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="nadar", # Replace with your own username
-    version="0.0.1",
+    version="0.1.0",
     author="Michal Puchala",
     author_email="mk.puchala@gmail.com",
     description="NAtural DAte Ranges - automatic translation of natural language phrases describing date ranges into relevant dates or strings",
