@@ -32,7 +32,7 @@ SmartPeriod(SmartDate(2018, 4, 1), SmartDate(2018, 4, 30))
 SmartPeriod(SmartDate(2016, 1, 1), SmartDate(2016, 12, 31))
 ```
 
-**parse_period**<br/>
+**smart_dates**<br/>
 Wrapper for both parse_period() and parse_reference() returning a tuple of strings.
 
 ```
