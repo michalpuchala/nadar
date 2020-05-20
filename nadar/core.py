@@ -1,3 +1,4 @@
+import re
 from nadar.helper import (
     DATE_FORMAT,
     FlexDate,
